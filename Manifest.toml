@@ -114,7 +114,7 @@ version = "0.21.11"
 
 [[Ensemble]]
 deps = ["Distributed", "Distributions", "FFTW", "HDF5", "LinearAlgebra", "Printf", "Random", "Statistics", "Test"]
-git-tree-sha1 = "7e840bc488a5e7e1bf283f05c29a68de0cec3850"
+git-tree-sha1 = "a199bba9fc233cb9b3019b0e488ef82180272361"
 repo-rev = "master"
 repo-url = "https://github.com/farr/Ensemble.jl.git"
 uuid = "3875dfec-0b3d-4f32-b40f-7c98cee5d882"

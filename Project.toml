@@ -6,6 +6,7 @@ version = "0.1.0"
 [deps]
 CARMA = "a07d8502-063d-4301-8ca6-fea2e825e4ed"
 Ensemble = "3875dfec-0b3d-4f32-b40f-7c98cee5d882"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
 IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"

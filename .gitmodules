@@ -1,3 +1,6 @@
 [submodule "DR2"]
 	path = DR2
 	url = https://gitlab.com/IPTA/DR2.git
+[submodule "tempo2"]
+	path = tempo2
+	url = https://bitbucket.org/psrsoft/tempo2.git

@@ -1,0 +1,21 @@
+name: pulsarnoise
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - corner
+  - nodejs
+  - ipywidgets
+  - jplephem
+  - jupyterlab
+  - tqdm
+  - scipy
+  - matplotlib
+  - python=3.7
+  - seaborn
+  - numpy
+  - pystan
+  - emcee
+  - pip
+  - arviz

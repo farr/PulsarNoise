@@ -1,0 +1,3 @@
+[submodule "PINT"]
+	path = PINT
+	url = https://github.com/nanograv/PINT.git
